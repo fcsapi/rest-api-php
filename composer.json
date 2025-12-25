@@ -1,6 +1,6 @@
 {
     "name": "fcsapi/rest-api",
-    "version": "1.0.0",
+    "version": "4.0.0",
     "description": "PHP REST API client for Forex, Cryptocurrency, and Stock market data from FCS API",
     "type": "library",
     "license": "MIT",
