@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-blue.svg)](https://php.net)
-[![Packagist](https://img.shields.io/packagist/v/fcsapi/rest-api.svg)](https://packagist.org/packages/fcsapi/rest-api)
+[![Packagist](https://img.shields.io/packagist/v/fcsapi/rest.svg)](https://packagist.org/packages/fcsapi/rest)
 
 ## Features
 
@@ -19,7 +19,7 @@
 
 ### Composer (Recommended)
 ```bash
-composer require fcsapi/rest-api
+composer require fcsapi/rest
 ```
 
 ### Manual Installation

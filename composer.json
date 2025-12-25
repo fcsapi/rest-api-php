@@ -1,5 +1,5 @@
 {
-    "name": "fcsapi/rest-api",
+    "name": "fcsapi/rest",
     "version": "4.0.0",
     "description": "PHP REST API client for Forex, Cryptocurrency, and Stock market data from FCS API",
     "type": "library",
